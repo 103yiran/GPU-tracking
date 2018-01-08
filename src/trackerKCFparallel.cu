@@ -10,7 +10,7 @@
 |---------------------------*/
 namespace cv{
    /**
-  * \brief Implementation of TrackerModel for MIL algorithm
+  * \brief Implementation of TrackerModel for KCF algorithm
   */
   class TrackerKCFModel : public TrackerModel{
   public:
